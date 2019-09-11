@@ -1,7 +1,9 @@
 # Getting Started with SQL Conclusion
 
-We've learned all about the basics of SQL. With SQL, we can store and find
-stored data. SQL has many variations, but specifically covered using SQLite.
+We've learned all about the basics of SQL. With SQL, we can store and find our
+stored data. SQL has many variations, but in this module, we specifically
+covered using SQLite which will be the type of database that we work with
+throughout this course.
 
 Over the past several lessons, we covered how to create and open a database file
 and table, the three specific SQLite database types, how to create advanced
